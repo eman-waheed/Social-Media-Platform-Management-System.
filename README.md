@@ -1,31 +1,24 @@
-# Social-Media-Platform-Management-System.
 Social Media Platform Management System
 
 Overview
 A Java-based Object-Oriented Programming project that simulates a social media platform. 
-The system design and documentation include user management, posting, commenting, liking, messaging, and profile handling. 
-This repository contains the complete project report and presentation.
+The system enables user registration, posting, commenting, liking, messaging, and profile management. 
+It demonstrates OOP principles and database integration.
 
 Features
-- User registration and authentication
-- Content posting with text and media
-- Commenting, liking, and sharing
+- User registration and login authentication
+- Create, view, and manage posts
+- Commenting, liking, and sharing posts
 - Direct messaging between users
-- Profile creation and management
-- Database schema with relational design
+- Profile management with bio
+- Database schema for relational integrity
 
-Tech Stack (Planned/Documented)
+Tech Stack
 - Language: Java
-- Database: MySQL (relational database design included)
+- Database: MySQL (or other relational database)
 - Tools: Eclipse / NetBeans / IntelliJ IDEA
 
 Files in this Repository
-- Report.pdf : Detailed project report with design and documentation
+- Report.pdf : Detailed project report
 - Presentation.pdf : Project presentation slides
-- (Optional) Diagrams.pdf : Class and database diagrams if separate
-
-Future Scope
-- Real-time notifications
-- Multimedia content support
-- Advanced privacy controls
-- Search and recommendation features
+- Diagrams/ : Class diagrams and database schema
